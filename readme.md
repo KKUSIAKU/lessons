@@ -11,11 +11,6 @@ So we gonna tell babel hey transform react code js et nay es2015 feature to norm
 
 In a `babel.config.js` just add this 
 
-
-
-
-
-
 ```
 module.exports = {
   "presets":[
