@@ -10,6 +10,7 @@ We use babel to transform our code with new sugar syntastic feature to native sy
 So we gonna tell babel hey transform react code js et nay es2015 feature to normal js also. For that we use plugins or preset in bable 
 
 In a `babel.config.js` just add this 
+
 ```
 module.exports = {
   "presets":[
